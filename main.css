@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Didact+Gothic);
+
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size:100px;
+    padding-top: 100px;
+}
+
+a.reddit:hover{color:#ff4500;}
+a.youtube:hover {color: #e52d27;}
+a.facebook:hover{color:#3B5998;}
+a.gmail:hover{color:#eb0b0c;}
+a.github:hover{color:#000000;}
+a {color:#111111;}
+a:hover { text-decoration: none }
